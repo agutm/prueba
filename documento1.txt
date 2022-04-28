@@ -1,0 +1,4 @@
+Agustin Thevenet
+45998612
+
+Utilizaría un esquema de producción (master), hotfix, release, develop y features. 
