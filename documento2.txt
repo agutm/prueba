@@ -1,0 +1,7 @@
+Agustin Thevenet
+45998612
+
+Para commitear un cambio para una posterior inclusión en producción, 
+lo primero es hacer un pull para ver que no hayan conflictos con el estado actual. 
+Luego del pull y resolver los posibles conflictos generados sin alterar nada de producción, lo mas normal
+es enviar una pull request, donde se revisa por los encargados y determinan si aceptar o no el cambio.
